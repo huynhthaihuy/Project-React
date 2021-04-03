@@ -1,0 +1,38 @@
+.HeaderPricing--Style{
+    height:60px;
+    background-color: whitesmoke;
+}
+.Content--Style{
+    display:flex;    justify-content: center;
+    justify-content: space-around;
+}
+.nav0{
+    color:black;
+}
+.nav1{
+    color:black;
+    margin-left: 20px;
+}
+.nav2{
+    color:black;
+    margin-left: 20px;
+}
+.nav3{
+    color:black;
+    margin-left:20px;
+}
+.nav4{
+    color:blue;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.Pricing--Style{
+    height:200px;
+    color:black;
+}
+.Body--Style{
+    height:400px;
+}
+.Footer--Style{
+    height:200px;
+}
